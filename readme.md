@@ -1,3 +1,10 @@
+## Figma Design
+[https://www.figma.com/file/MzYVvWTK8jx9iuEp77XIoz/MegaMind-EdTech?type=design&node-id=1%3A2&mode=design&t=5jj4SnKB0VGCzgWd-1](https://www.figma.com/file/MzYVvWTK8jx9iuEp77XIoz/MegaMind-EdTech?type=design&node-id=1%3A2&mode=design&t=5jj4SnKB0VGCzgWd-1)
+
+## Fixing theme challenge
+[https://docs.google.com/document/d/1X0d_MDRdbwvtsYCAxutMvJcxOysYCsuvFcOIzFodGzQ/edit?usp=sharing](https://docs.google.com/document/d/1X0d_MDRdbwvtsYCAxutMvJcxOysYCsuvFcOIzFodGzQ/edit?usp=sharing)
+
+
 ## Advanced PayPal Checkout
 You can set up the project by following the steps below:
 - Clone or download the project
