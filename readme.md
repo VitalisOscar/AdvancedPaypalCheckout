@@ -6,6 +6,14 @@
 
 
 ## Advanced PayPal Checkout
+The payment process follows the following steps:
+- A payment order request is initiated from the frontend when a user clicks 'Pay Now' or PayPal button
+- The backend receives the order amount, sends a payload to paypal for order creation, returning an order id
+- The order id is returned to the frontend.
+- If the payment is approved i.e the user completes the payment via paypal or submits a valid card, paypal calls the capture payment function on the frontend.
+- The function calls the capture payment backend endpoint, passing the order id received from paypal.
+- The backend captures the payment from the payment source and the process is complete.
+
 You can set up the project by following the steps below:
 - Clone or download the project
 - Setup configurations in `order.php`, `token.php` and `capture.php` as shown:
